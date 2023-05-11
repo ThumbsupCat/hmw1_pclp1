@@ -12,3 +12,5 @@ In for, am citit ((N+1)*Dimen)/16 numere si m-am folosit de 2 variabile operand 
 	-operand este numarul simplu, ce nu trebuie modificat in urma prelucrarii
 	-copie are rolul de a extrage cei mai semnificativi "dimem" biti aftel incat sa ramana in final un numar format din "dimen" biti, iar apoi operandul
 	 este retinut in vectorul v.
+
+Homework link: https://ocw.cs.pub.ro/courses/programare/teme_2021/tema1_2021_cbd
